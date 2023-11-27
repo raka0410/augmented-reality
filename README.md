@@ -1,1 +1,1 @@
-# augmented-reality
+# PRO-C187-Student-Boilerplate
